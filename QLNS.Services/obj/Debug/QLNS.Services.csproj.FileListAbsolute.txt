@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\QLNS\QLNS.Services\bin\Debug\QLNS.Services.dll
+C:\Users\admin\source\repos\QLNS\QLNS.Services\bin\Debug\QLNS.Services.pdb
+C:\Users\admin\source\repos\QLNS\QLNS.Services\obj\Debug\QLNS.Services.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\QLNS\QLNS.Services\obj\Debug\QLNS.Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QLNS\QLNS.Services\obj\Debug\QLNS.Services.dll
+C:\Users\admin\source\repos\QLNS\QLNS.Services\obj\Debug\QLNS.Services.pdb
